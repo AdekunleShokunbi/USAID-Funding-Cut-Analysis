@@ -16,7 +16,7 @@ Due to the nature and form of the dataset, I had to do some data transformation 
   5. I removed irrelevant columns to the analysis
   6. I also created new columns with conditional column formatting (Project status...)
   7. Once my data was cleaned and ready to use, I loaded it back to my powerBI.
-  8. On my PoerBI, I created some measures for KPI 
+  8. On my PowerBI, I created some measures for KPI 
 
 
   
