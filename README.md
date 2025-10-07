@@ -10,12 +10,13 @@ The dataset used for this analysis was a pdf document that contained all of the 
 ## Data Cleaning and Transformation
 Due to the nature and form of the dataset, I had to do some data transformation and cleaning to ensure the dataset was usable for analysis sake. 
   1. The dataset was loaded on Power BI.
-  2. The dataset was then loaded to power query.
+  2. The dataset was then loaded to power query for data transformation.
   3. I extracted the data I needed from the pdf by pages
   4. Then the ones that didn't work with  pages, I extracted by tables.
-  5. I removed irrelevant tables to the analysis
+  5. I removed irrelevant columns to the analysis
   6. I also created new columns with conditional column formatting (Project status...)
-Once my data was cleaned and ready to use, I loaded it back to my powerBI.
+  7. Once my data was cleaned and ready to use, I loaded it back to my powerBI.
+  8. On my PoerBI, I created some measures for KPI 
 
 
   
