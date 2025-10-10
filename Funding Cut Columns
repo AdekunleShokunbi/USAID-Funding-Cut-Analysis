@@ -1,0 +1,5 @@
+## Added COlumns
+1.	Contract Period (This was derived by getting the difference in year between the contract start date and the expected end date)
+2.	Cost Saved (The difference in estimated cost and obligated cost)
+3.	Contract Duration (I did a grouping of contract periods to enable better visualization)
+4.	Project Status (This was to show the status of the projects as at when the policy came up . I grouped to ongoing and completed)
